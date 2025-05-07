@@ -4,7 +4,7 @@ using namespace std;
 
 void info(){
   system ("cls");
-  cout<<"Indonesia Hebat, Poliban Juara";
+  cout<<"Indonesia Hebat, Poliban Jaya Jaya";
   getch();
 }
 
