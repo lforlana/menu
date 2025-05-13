@@ -111,7 +111,7 @@ void mt()
 void me()
 {
   system("cls");
-  cout << "pastikan data yang anda masukan sudah benar" << endl;
+  cout << "Pastikan data yang anda masukan sudah benar" << endl;
   getch();
 }
 
